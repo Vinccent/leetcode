@@ -14,3 +14,18 @@
 ```
 ## 解法
 利用 `HashMap` 来记录下数组的下标和数值，对数组中的每一个数字 `nums[i]` ,判断差值 `target-nums[i]` 是否在 `HashMap` 里头，存在的话，就返回这两个数值的下标组成的数组。在 `Python` 里， `HashMap` 用 `dict` 代替
+
+```
+def twoSum(nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: List[int]
+    """
+    
+    dic = {}
+    for index, num in enumerate(nums):
+        if num in dic:
+            return [dic[num], index]
+        dic[target - num] = index
+```
