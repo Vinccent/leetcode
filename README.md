@@ -6,7 +6,7 @@ Solutions on leetcode problems implemented by Python3
 
 | No.  | Title   | Solution | Tag                  |
 | ---- | ------- | -------- | -------------------- |
-| 1    | Two Sum | Python   | `Array`, `HashTable` |
+| 1    | Two Sum(https://github.com/Vinccent/leetcode/blob/master/solution/001.%20Two%20Sum/Solution.py) | Python(https://github.com/Vinccent/leetcode/blob/master/solution/001.%20Two%20Sum/Note.md)   | `Array`, `HashTable` |
 |      |         |          |                      |
 
 
