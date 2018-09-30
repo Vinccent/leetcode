@@ -7,6 +7,7 @@ Solutions on leetcode problems implemented by Python3
 | No.  | Title       | Solution | Tag                  |
 | ---- | ----------- | -------- | -------------------- |
 | 001  | [Two Sum](https://github.com/Vinccent/leetcode/blob/master/solution/001.Two%20Sum/Note.md) | [Python](https://github.com/Vinccent/leetcode/blob/master/solution/001.Two%20Sum/Solution.py)   | `Array`, `HashTable` |
+| 021  | [Merge Two Sorted Lists](https://github.com/Vinccent/leetcode/blob/master/solution/021.Merge%20Two%20Sorted%20Lists/Note.md)|[Python](https://github.com/Vinccent/leetcode/blob/master/solution/021.Merge%20Two%20Sorted%20Lists/Solution.py)|`Linked List`|
 | 026  | [Remove Duplicates from Sorted Array](https://github.com/Vinccent/leetcode/blob/master/solution/026.Remove%20Duplicates%20from%20Sorted%20Array/Note.md)|[Python](https://github.com/Vinccent/leetcode/blob/master/solution/026.Remove%20Duplicates%20from%20Sorted%20Array/Solution.py)|`Array`,`Two Pointers`|
 | 027  | [Remove Elements]()|[Python]()|`Array`,`Two Pointers`|
 | 136  | [Single Number](https://github.com/Vinccent/leetcode/blob/master/solution/136.Single%20Number/Note.md) | [Python](https://github.com/Vinccent/leetcode/blob/master/solution/136.Single%20Number/Solution.py) | `Hash Table`,`Bit Manupulation`|
@@ -17,7 +18,7 @@ Solutions on leetcode problems implemented by Python3
 ## Median
 | No.  | Title | Solution | Tag  |
 | ---- | ----- | -------- | ---- |
-|   | [Sample]()|[Python]()||
+
 
 
 
