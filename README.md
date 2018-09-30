@@ -24,4 +24,4 @@ Solutions on leetcode problems implemented by Python3
 ## Hard
 | No.  | Title | Solution | Tag  |
 | ---- | ----- | -------- | ---- |
-| 004  | [Median of Two Sorted Arrays]()|[Python]()|`Array`,`Binary Search`,`Divide and Conquer`|
+| 004  | [Median of Two Sorted Arrays](https://github.com/Vinccent/leetcode/blob/master/solution/004.Median%20of%20Two%20Sorted%20Arrays/Note.md)|[Python](https://github.com/Vinccent/leetcode/blob/master/solution/004.Median%20of%20Two%20Sorted%20Arrays/Solution.py)|`Array`,`Binary Search`,`Divide and Conquer`|
