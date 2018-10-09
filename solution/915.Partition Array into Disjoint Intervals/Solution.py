@@ -17,5 +17,5 @@ def partitionDisjoint(A):
         min_right[i] = temp
 
     for i in range(1,len(A)):
-        if max_left[i-1] < min_right[i]:
+        if max_left[i-1] <= min_right[i]:
             return i
